@@ -1,0 +1,36 @@
+*{
+    overflow: hidden;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 24%;
+    margin-top: 11%;
+}
+.mainr{
+    width: 10%;
+    height: 10%;
+}
+.mainl{
+    width: 50%;
+    height: 50%;
+
+}
+.main input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2%;
+}
+
+.top{
+    text-align: center;
+}
+ .mainr img{
+    width: 99%;
+    height: 50%;
+
+
+}
